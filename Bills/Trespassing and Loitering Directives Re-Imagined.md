@@ -35,8 +35,8 @@ Introduced by d3av2id1 (for himself and TypsiKermit)
 
 > "(b) Trespassing shall be defined as the following: <br>
 >
-> &nbsp;&nbsp;&nbsp;&nbsp; (b1) Entering into the areas marked in red in ![this](https://github.com/d3av2id1/FS-Images/blob/main/Tresspassing/DHS%20Trespassing/GovManor.png) screenshot without proper clearance from authorized personnel of the Firestone Department of Homeland Security and/or one of the Governor’s. <br>
-> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (b1a) Entering into the areas marked in blue in ![this](https://github.com/d3av2id1/FS-Images/blob/main/Tresspassing/DHS%20Trespassing/GovManor.png) screenshot without proper clearance from authorized personnel of the Firestone Department of Homeland Security when the Governor’s Manor is under lockdown, or an event is currently taking place. <br>
+> &nbsp;&nbsp;&nbsp;&nbsp; (b1) Entering into the areas marked in red in [this](https://github.com/d3av2id1/FS-Images/blob/main/Tresspassing/DHS%20Trespassing/GovManor.png) screenshot without proper clearance from authorized personnel of the Firestone Department of Homeland Security and/or one of the Governor’s. <br>
+> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (b1a) Entering into the areas marked in blue in [this](https://github.com/d3av2id1/FS-Images/blob/main/Tresspassing/DHS%20Trespassing/GovManor.png) screenshot without proper clearance from authorized personnel of the Firestone Department of Homeland Security when the Governor’s Manor is under lockdown, or an event is currently taking place. <br>
 > 
 > &nbsp;&nbsp;&nbsp;&nbsp; (b2) 
 
